@@ -426,25 +426,6 @@ Completed: Oct 2025
 **B.Sc. Computer Science & Engineering — Southeast University, Bangladesh**  
 GPA: 3.97/4.0 | 5th Place Intra Programming Contest 2015
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ranasl62&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranasl62&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranasl62&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I am open to full-time opportunities in **Full Stack Engineering**, **Cloud Architecture**, and **AI Integration**.
