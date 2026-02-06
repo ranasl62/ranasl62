@@ -1,13 +1,6 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=180&section=header&text=Rana%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20|%20Agentic%20AI%20%26%20RAG%20|%20AWS%20Solutions%20Architect&descAlignY=58&descSize=18" width="100%" alt="Rana Hossain header"/>
-</div>
+![Rana Hossain header](https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=180&section=header&text=Rana%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG%20%7C%20AWS%20Solutions%20Architect&descAlignY=58&descSize=18)
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=005850&center=true&vCenter=true&width=650&lines=Enterprise+platforms+and+legacy+modernization;Agentic+AI+%26+RAG+integration;Microservices+architecture+and+cloud+delivery;AWS+Certified+Solutions+Architect" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=005850&center=true&vCenter=true&width=650&lines=Enterprise+platforms+and+legacy+modernization;Agentic+AI+%26+RAG+integration;Microservices+architecture+and+cloud+delivery;AWS+Certified+Solutions+Architect)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mdranahossain/">
@@ -24,18 +17,28 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="#-profile-snapshot">About</a> •
+  <a href="#-current-role-highlights">Experience</a> •
+  <a href="#-featured-work">Projects</a> •
+  <a href="#-certifications--credentials">Certifications</a> •
+  <a href="#-lets-connect">Contact</a>
+</div>
+
 ---
 
 ## 👋 Profile Snapshot
 
-Senior Software Engineer focused on **Agentic AI, RAG, and enterprise-scale systems**. I build secure, scalable platforms, modernize legacy stacks, and deliver measurable outcomes for product and engineering teams.
+> Senior Software Engineer focused on **Agentic AI, RAG, and enterprise-scale systems**. I build secure, scalable platforms, modernize legacy stacks, and deliver measurable outcomes for product and engineering teams.
 
-- **Expertise:** Agentic AI, RAG, Microservices, Cloud Architecture
-- **Core Stack:** Java, Spring Boot, LangChain, CrewAI, AWS, Docker
-- **Location:** Detroit, MI, USA
-- **Open to:** Full-time roles in Full Stack, Cloud, and AI Integration
-- **LeetCode:** https://leetcode.com/ranasl62/
-- **GitHub:** Pull Shark x3, Arctic Code Vault Contributor
+| Focus | Details |
+| --- | --- |
+| Expertise | Agentic AI, RAG, Microservices, Cloud Architecture |
+| Core Stack | Java, Spring Boot, LangChain, CrewAI, AWS, Docker |
+| Location | Detroit, MI, USA |
+| Open to | Full-time roles in Full Stack, Cloud, and AI Integration |
+| LeetCode | https://leetcode.com/ranasl62/ |
+| GitHub | Pull Shark x3, Arctic Code Vault Contributor |
 
 ---
 
@@ -173,6 +176,4 @@ I am open to full-time opportunities in **Full Stack Engineering**, **Cloud Arch
 
 [📧 Email](mailto:mdranahossain2025@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mdranahossain/)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=90&section=footer" width="100%" alt="Footer"/>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=90&section=footer)
