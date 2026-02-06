@@ -7,6 +7,88 @@ Detroit, MI • Open to Full‑time Opportunities
 ---
 
 ## About
+I build secure, scalable platforms and modernize legacy systems. My focus is microservices, cloud delivery, and RAG/agentic AI workflows with strong emphasis on observability and reliability.
+
+---
+
+## Current Role — Volkswagen Group of America
+- Led Angular 4 → 18 modernization with NgRx and multi‑brand theming
+- Delivered cross‑platform apps with Ionic/Capacitor for iOS, Android, and web
+- Dockerized onboarding workflow (reduced ramp‑up from 2 weeks to 1 day)
+- Improved production stability with refactoring and test coverage
+- Integrated ELSA2Go repair manuals with Solr indexing and APIs
+
+**Measured Outcomes**
+```
+System Scalability   +30%   | Deployment Speed   +30%
+Onboarding Time      -93%   | User Satisfaction  +20%
+Security Incidents   Zero known
+```
+
+---
+
+## Core Strengths
+- Enterprise modernization and legacy system upgrades
+- Microservices architecture, API design, and integration
+- Cloud delivery with AWS, CI/CD, and containerization
+- RAG and agentic AI workflows with grounding and evaluation
+- Observability and monitoring: metrics, logs, tracing, alerts
+
+---
+
+## RAG & Agentic AI Toolkit
+**Frameworks:** LangChain, LangGraph, CrewAI, Hugging Face  
+**Vector Stores:** FAISS, Pinecone, Weaviate, Chroma  
+**RAG Flow:** ingestion, chunking, embeddings, retrieval, reranking, grounding  
+**Monitoring:** OpenTelemetry, Prometheus, Grafana, ELK
+
+---
+
+## Tech Stack
+**Backend:** Java, Spring Boot, Node.js, Python  
+**Frontend:** Angular, React, TypeScript, Ionic  
+**Cloud/DevOps:** AWS, Docker, Kubernetes, Jenkins  
+**Data/AI:** PostgreSQL, MongoDB, Kafka, LLMs, Vector DBs
+
+---
+
+## Featured Work
+- **[LaruCare](https://larucare.com/)** — Privacy‑first, offline family health journal  
+  Repo: [../../larucare](../../larucare)
+- **[npm-sslcommerz](https://github.com/ranasl62/npm-sslcommerz)** — SSLCommerz payment gateway integration
+- **[springboot-microservice-integration](https://github.com/ranasl62/springboot-microservice-integration)** — Microservice patterns and integration
+- **[Spring-boot-crud](https://github.com/ranasl62/Spring-boot-crud)** — Clean CRUD starter in Spring Boot
+- **[leetcode](https://github.com/ranasl62/leetcode)** — Algorithm practice in Java
+- **[huggingface-transformers](https://github.com/ranasl62/huggingface-transformers)** — NLP and transformer experiments
+
+---
+
+## Certifications
+- AWS Certified Solutions Architect – Associate (Nov 2023)
+- AI Agents Fundamentals — Hugging Face (Jan 2026)
+- Generative AI Specialization — Coursera (Jan 2026)
+- SQL (Intermediate), JavaScript (Intermediate), REST API (Intermediate) — HackerRank (Oct 2023)
+
+---
+
+## Education
+**M.S. Computer Science — Maharishi International University** (Completed Oct 2025)  
+**B.Sc. Computer Science & Engineering — Southeast University, Bangladesh**
+
+---
+
+## Recommendations
+- “I haven't found anyone quite as sharp as him in adapting to a new stack” — Monirul Hasan
+- “Rana is a true rising star... skills beyond his years” — Iftekhar Ishaque
+# Rana Hossain
+Senior Software Engineer | Agentic AI & RAG | AWS Solutions Architect  
+Detroit, MI • Open to Full‑time Opportunities
+
+[Email](mailto:mdranahossain2025@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mdranahossain/) • [Credly](https://www.credly.com/users/md-rana-ranasl62-gmail-com) • [LeetCode](https://leetcode.com/ranasl62/)
+
+---
+
+## About
 I build secure, scalable platforms and modernize legacy systems. I specialize in microservices, cloud delivery, and RAG/agentic AI workflows with strong emphasis on observability and reliability.
 
 ---
