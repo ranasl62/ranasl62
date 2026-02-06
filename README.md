@@ -1,6 +1,4 @@
-![Rana Hossain header](https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=180&section=header&text=Rana%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG%20%7C%20AWS%20Solutions%20Architect&descAlignY=58&descSize=18)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=005850&center=true&vCenter=true&width=650&lines=Enterprise+platforms+and+legacy+modernization;Agentic+AI+%26+RAG+integration;Microservices+architecture+and+cloud+delivery;AWS+Certified+Solutions+Architect)](https://git.io/typing-svg)
+# Rana Hossain
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mdranahossain/">
