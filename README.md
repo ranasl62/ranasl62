@@ -1,4 +1,4 @@
-![Rana Hossain header](https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=180&section=header&text=Rana%20Hossain&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG%20%7C%20AWS%20Solutions%20Architect&descAlignY=58&descSize=18)
+![Rana Hossain header](https://camo.githubusercontent.com/0cbd1dbb407c5eda5d9993995712a69915b2bf52f3a5a521ee4069d3353ab974/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3030353835302c3130303a303034343338266865696768743d3138302673656374696f6e3d68656164657226746578743d52616e61253230486f737361696e26666f6e7453697a653d343826666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333626646573633d53656e696f72253230536f667477617265253230456e67696e6565722532302537432532304167656e7469632532304149253230253236253230524147253230253743253230415753253230536f6c7574696f6e732532304172636869746563742664657363416c69676e593d3538266465736353697a653d3138)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=005850&center=true&vCenter=true&width=650&lines=Enterprise+platforms+and+legacy+modernization;Agentic+AI+%26+RAG+integration;Microservices+architecture+and+cloud+delivery;AWS+Certified+Solutions+Architect)](https://git.io/typing-svg)
 
@@ -69,6 +69,25 @@ Security Incidents     █░░░░░░░░░░░░░░░░░░
 - Microservices architecture, API design, and integration
 - Cloud delivery with AWS, CI/CD, and containerization
 - AI integration with LLMs, RAG, and agent workflows
+- RAG system design: retrieval pipelines, ranking, and grounding
+- Observability and monitoring: metrics, logs, tracing, and alerts
+
+---
+
+## 🧠 RAG & Agentic AI Toolkit
+
+**RAG Workflow**
+- Document ingestion: loaders, parsers, chunking
+- Embeddings: vectorization and similarity search
+- Retrieval: hybrid search, reranking, filtering
+- Orchestration: prompt templates, grounding, and citations
+- Evaluation: offline/online quality checks and guardrails
+
+**Agentic AI**
+- Tool use and function calling
+- Multi‑agent coordination and routing
+- Memory, planning, and reflection loops
+ - Safety: rate limits, filters, and audit logs
 
 ---
 
@@ -99,6 +118,21 @@ Security Incidents     █░░░░░░░░░░░░░░░░░░
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![LLMs & LangChain](https://img.shields.io/badge/LLMs_&_LangChain-412991?style=flat-square&logo=openai&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-0A66C2?style=flat-square&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0E8A16?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-0F172A?style=flat-square&logo=crewai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=000000)
+![FAISS](https://img.shields.io/badge/FAISS-5B7FFF?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1B72E8?style=flat-square&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-5C2D91?style=flat-square&logo=weaviate&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-7C3AED?style=flat-square&logo=chroma&logoColor=white)
+
+**Monitoring & Observability**  
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 
 </div>
 
