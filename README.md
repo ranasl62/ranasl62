@@ -3,16 +3,16 @@
 <div align="center">
 
 <a href="mailto:mdranahossain2025@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/mdranahossain/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.credly.com/users/md-rana-ranasl62-gmail-com">
-  <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&amp;logo=credly&amp;logoColor=white" alt="Credly" />
 </a>
 <a href="https://leetcode.com/ranasl62/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode" />
 </a>
 
 <br />
@@ -162,10 +162,10 @@
 Open to opportunities in **Full Stack Engineering**, **Cloud Architecture**, and **AI Integration**.
 
 <a href="mailto:mdranahossain2025@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/mdranahossain/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=90&section=footer)
