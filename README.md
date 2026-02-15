@@ -33,6 +33,8 @@
 
 **Senior Full Stack Engineer** &nbsp; *(Apr 2024 -- Present)*
 
+- Built a **RAG system** for internal knowledge retrieval across Volkswagen service documentation
+- Developed **agentic AI workflows** for Infomedia integration and customer feedback analysis
 - Led **Angular 4 to 18** modernization with NgRx and multi-brand theming
 - Delivered cross-platform apps (iOS, Android, web) with **Ionic/Capacitor**
 - Dockerized onboarding workflow, cutting ramp-up from **2 weeks to 1 day**
