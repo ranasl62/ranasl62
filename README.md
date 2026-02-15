@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rana Hossain
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=40&amp;pause=1000&amp;color=005850&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Rana+Hossain" alt="Rana Hossain" />
 
 **Senior Software Engineer | Agentic AI & RAG | AWS Solutions Architect**
 
@@ -108,19 +108,6 @@
 
 ---
 
-## Featured Work
-
-| Project | Description |
-| :--- | :--- |
-| **local-ai-agent** | Agentic RAG system for multi-edition document analysis with semantic search, cross-edition comparison, and tool-based agents (FastAPI, Qdrant, Redis, Celery) |
-| **[npm-sslcommerz](https://github.com/ranasl62/npm-sslcommerz)** | SSLCommerz payment gateway integration for JavaScript apps |
-| **[springboot-microservice-integration](https://github.com/ranasl62/springboot-microservice-integration)** | Microservice patterns and integration examples |
-| **[Spring-boot-crud](https://github.com/ranasl62/Spring-boot-crud)** | Clean CRUD starter in Spring Boot |
-| **[leetcode](https://github.com/ranasl62/leetcode)** | Algorithm practice in Java |
-| **[huggingface-transformers](https://github.com/ranasl62/huggingface-transformers)** | NLP and transformer experiments |
-
----
-
 ## Certifications
 
 | Certification | Issuer | Date |
@@ -136,7 +123,7 @@
 
 | Degree | Institution | GPA |
 | :--- | :--- | :--- |
-| **M.S. Computer Science** | Maharishi International University (Oct 2025) | 4.0 / 4.0 |
+| **M.S. Computer Science** | Maharishi International University (Oct 2025) | 3.93 / 4.0 |
 | **B.Sc. Computer Science & Engineering** | Southeast University, Bangladesh | 3.97 / 4.0 |
 
 ---
