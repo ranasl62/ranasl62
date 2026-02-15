@@ -1,6 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=200&section=header&text=Rana%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Agentic%20AI%20%26%20RAG%20%7C%20AWS%20Solutions%20Architect&descSize=16&descAlignY=55)
-
 <div align="center">
+
+# Rana Hossain
+
+**Senior Software Engineer | Agentic AI & RAG | AWS Solutions Architect**
 
 <a href="mailto:mdranahossain2025@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
@@ -167,7 +169,5 @@ Open to opportunities in **Full Stack Engineering**, **Cloud Architecture**, and
 <a href="https://www.linkedin.com/in/mdranahossain/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:005850,100:004438&height=90&section=footer)
 
 </div>
