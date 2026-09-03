@@ -108,7 +108,6 @@ a:focus-visible,
   line-height: 1.22;
   margin: 0 0 14px;
   color: #fff;
-  max-width: 20ch;
 }
 .deck {
   max-width: 44rem;
