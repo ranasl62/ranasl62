@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" role="img" aria-label="Md Rana Hossain">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
@@ -7,8 +8,8 @@
   </defs>
   <rect width="1280" height="280" fill="url(#bg)"/>
   <rect y="274" width="1280" height="6" fill="#8b6914"/>
-  <text x="64" y="78" fill="#c9b06a" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="700" letter-spacing="4">COMPUTER SCIENTIST  ·  DETROIT, MICHIGAN</text>
-  <text x="64" y="140" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="600">Md Rana Hossain</text>
-  <text x="64" y="186" fill="#cfd8e3" font-family="Georgia, 'Times New Roman', serif" font-size="22">Trustworthy health-AI research  ·  Production AI engineering</text>
-  <text x="64" y="228" fill="#b7c4d2" font-family="Georgia, 'Times New Roman', serif" font-size="16">RAG · LangChain · LangGraph · LangSmith · MCP · EHR Risk Framework</text>
+  <text x="64" y="78" fill="#c9b06a" font-family="Georgia, Times New Roman, serif" font-size="16" font-weight="700" letter-spacing="4">COMPUTER SCIENTIST  |  DETROIT, MICHIGAN</text>
+  <text x="64" y="140" fill="#ffffff" font-family="Georgia, Times New Roman, serif" font-size="48" font-weight="600">Md Rana Hossain</text>
+  <text x="64" y="186" fill="#cfd8e3" font-family="Georgia, Times New Roman, serif" font-size="22">Trustworthy health-AI research  |  Production AI engineering</text>
+  <text x="64" y="228" fill="#b7c4d2" font-family="Georgia, Times New Roman, serif" font-size="16">RAG  |  LangChain  |  LangGraph  |  LangSmith  |  MCP  |  EHR Risk Framework</text>
 </svg>

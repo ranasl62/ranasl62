@@ -84,6 +84,21 @@ a:hover { color: #12485c; }
   color: #eef3f7;
   padding: 56px 0 48px;
 }
+.hero-grid {
+  display: flex;
+  align-items: center;
+  gap: 36px;
+}
+.portrait {
+  width: 168px;
+  height: 168px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 28%;
+  border: 3px solid #c9b06a;
+  flex-shrink: 0;
+  background: #fff;
+}
 .kicker {
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -240,4 +255,6 @@ a:hover { color: #12485c; }
   }
   .header-inner { flex-wrap: wrap; }
   .nav-toggle:checked ~ .nav { display: flex; }
+  .hero-grid { flex-direction: column; text-align: center; gap: 20px; }
+  .hero-links { justify-content: center; }
 }

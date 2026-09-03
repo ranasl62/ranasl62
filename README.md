@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Md Rana Hossain — trustworthy health-AI research and production AI engineering" width="100%" />
+  <img src="banner.png" alt="Md Rana Hossain — trustworthy health-AI research and production AI engineering" width="100%" />
 </div>
 
 <p align="center">
