@@ -388,6 +388,108 @@ a:focus-visible,
   font-size: 0.82rem;
 }
 
+.engage {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 40;
+  width: min(340px, calc(100vw - 32px));
+  padding: 18px 18px 14px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  box-shadow: 0 16px 40px rgba(13, 20, 28, 0.14);
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.28s ease, transform 0.28s ease;
+}
+.engage.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.engage-close {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 4px 6px;
+}
+.engage-close:hover { color: var(--ink); }
+.engage-kicker {
+  margin: 0 0 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.engage h2 {
+  font-family: var(--serif);
+  font-size: 1.12rem;
+  font-weight: 600;
+  margin: 0 0 8px;
+  padding: 0;
+  border: 0;
+  color: var(--ink);
+  line-height: 1.3;
+}
+.engage #engage-copy {
+  margin: 0 0 14px;
+  font-size: 0.9rem;
+  color: #24303a;
+  line-height: 1.5;
+}
+.engage-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+.engage-btn {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 7px 10px;
+  border: 1px solid var(--line);
+  color: var(--accent);
+  border-radius: 2px;
+  background: #fff;
+}
+.engage-btn:hover { background: var(--accent-soft); color: #0f3349; }
+.engage-btn.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.engage-btn.primary:hover {
+  background: #0f3349;
+  border-color: #0f3349;
+  color: #fff;
+}
+.engage-later {
+  display: block;
+  width: 100%;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.75rem;
+  cursor: pointer;
+  padding: 4px 0 0;
+  text-align: left;
+  font-family: inherit;
+}
+.engage-later:hover { color: var(--ink); }
+
+@media (prefers-reduced-motion: reduce) {
+  .engage { transition: none; }
+}
+
 @media (max-width: 800px) {
   .metrics { grid-template-columns: repeat(2, 1fr); }
   .grid-2 { grid-template-columns: 1fr; }
@@ -408,4 +510,10 @@ a:focus-visible,
   }
   .hero h1 { max-width: none; }
   .hero-links { justify-content: flex-start; }
+  .engage {
+    right: 12px;
+    bottom: 12px;
+    left: 12px;
+    width: auto;
+  }
 }
