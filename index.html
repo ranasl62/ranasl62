@@ -371,18 +371,21 @@
     </div>
   </footer>
 
-  <aside id="engage" class="engage" hidden role="dialog" aria-labelledby="engage-title" aria-describedby="engage-copy">
-    <button type="button" class="engage-close" data-engage-dismiss aria-label="Dismiss">×</button>
-    <p class="engage-kicker">Still here?</p>
-    <h2 id="engage-title">Thanks for reading carefully.</h2>
-    <p id="engage-copy">If something here fits a lab, a team, or a collaboration—I’d like to hear from you.</p>
-    <div class="engage-actions">
-      <a class="engage-btn primary" href="mailto:mdrana.hossain@miu.edu?subject=Hello%20from%20your%20site">Say hello</a>
-      <a class="engage-btn" href="https://www.linkedin.com/in/mdranahossain/" target="_blank" rel="noopener noreferrer">Connect</a>
-      <a class="engage-btn" href="mailto:mdrana.hossain@miu.edu?subject=Opportunity%20%2F%20hire%20inquiry">Hire / collaborate</a>
-    </div>
-    <button type="button" class="engage-later" data-engage-dismiss>Not now</button>
-  </aside>
+  <div id="engage" class="engage" hidden>
+    <div class="engage-backdrop" data-engage-dismiss tabindex="-1" aria-hidden="true"></div>
+    <aside class="engage-panel" role="dialog" aria-modal="true" aria-labelledby="engage-title" aria-describedby="engage-copy">
+      <button type="button" class="engage-close" data-engage-dismiss aria-label="Dismiss">×</button>
+      <p class="engage-kicker">Still here?</p>
+      <h2 id="engage-title">Thanks for reading carefully.</h2>
+      <p id="engage-copy">If something here fits a lab, a team, or a collaboration—I’d like to hear from you.</p>
+      <div class="engage-actions">
+        <a class="engage-btn primary" href="mailto:mdrana.hossain@miu.edu?subject=Hello%20from%20your%20site">Say hello</a>
+        <a class="engage-btn" href="https://www.linkedin.com/in/mdranahossain/" target="_blank" rel="noopener noreferrer">Connect</a>
+        <a class="engage-btn" href="mailto:mdrana.hossain@miu.edu?subject=Opportunity%20%2F%20hire%20inquiry">Hire / collaborate</a>
+      </div>
+      <button type="button" class="engage-later" data-engage-dismiss>Not now</button>
+    </aside>
+  </div>
 
   <script src="engage.js" defer></script>
 </body>

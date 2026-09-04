@@ -390,72 +390,90 @@ a:focus-visible,
 
 .engage {
   position: fixed;
-  right: 20px;
-  bottom: 20px;
+  inset: 0;
   z-index: 40;
-  width: min(340px, calc(100vw - 32px));
-  padding: 18px 18px 14px;
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-left: 3px solid var(--accent);
-  box-shadow: 0 16px 40px rgba(13, 20, 28, 0.14);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
   opacity: 0;
-  transform: translateY(14px);
-  transition: opacity 0.28s ease, transform 0.28s ease;
+  pointer-events: none;
+  transition: opacity 0.28s ease;
 }
 .engage.is-visible {
   opacity: 1;
-  transform: translateY(0);
+  pointer-events: auto;
+}
+.engage-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(13, 20, 28, 0.48);
+  cursor: pointer;
+}
+.engage-panel {
+  position: relative;
+  z-index: 1;
+  width: min(420px, 100%);
+  padding: 24px 22px 18px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  box-shadow: 0 24px 56px rgba(13, 20, 28, 0.22);
+  transform: translateY(12px) scale(0.98);
+  transition: transform 0.28s ease;
+}
+.engage.is-visible .engage-panel {
+  transform: translateY(0) scale(1);
 }
 .engage-close {
   position: absolute;
-  top: 8px;
-  right: 10px;
+  top: 10px;
+  right: 12px;
   border: 0;
   background: transparent;
   color: var(--muted);
-  font-size: 1.25rem;
+  font-size: 1.35rem;
   line-height: 1;
   cursor: pointer;
-  padding: 4px 6px;
+  padding: 4px 8px;
 }
 .engage-close:hover { color: var(--ink); }
 .engage-kicker {
-  margin: 0 0 6px;
+  margin: 0 0 8px;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  font-size: 0.65rem;
+  font-size: 0.68rem;
   font-weight: 700;
   color: var(--accent);
 }
-.engage h2 {
+.engage-panel h2 {
   font-family: var(--serif);
-  font-size: 1.12rem;
+  font-size: 1.28rem;
   font-weight: 600;
-  margin: 0 0 8px;
+  margin: 0 0 10px;
   padding: 0;
   border: 0;
   color: var(--ink);
   line-height: 1.3;
 }
 .engage #engage-copy {
-  margin: 0 0 14px;
-  font-size: 0.9rem;
+  margin: 0 0 18px;
+  font-size: 0.95rem;
   color: #24303a;
-  line-height: 1.5;
+  line-height: 1.55;
 }
 .engage-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  margin-bottom: 8px;
+  gap: 8px;
+  margin-bottom: 10px;
 }
 .engage-btn {
   display: inline-block;
   text-decoration: none;
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-weight: 600;
-  padding: 7px 10px;
+  padding: 9px 12px;
   border: 1px solid var(--line);
   color: var(--accent);
   border-radius: 2px;
@@ -478,16 +496,21 @@ a:focus-visible,
   border: 0;
   background: transparent;
   color: var(--muted);
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   cursor: pointer;
-  padding: 4px 0 0;
+  padding: 6px 0 0;
   text-align: left;
   font-family: inherit;
 }
 .engage-later:hover { color: var(--ink); }
 
 @media (prefers-reduced-motion: reduce) {
-  .engage { transition: none; }
+  .engage,
+  .engage-panel { transition: none; }
+}
+
+html.engage-open {
+  overflow: hidden;
 }
 
 @media (max-width: 800px) {
@@ -510,10 +533,6 @@ a:focus-visible,
   }
   .hero h1 { max-width: none; }
   .hero-links { justify-content: flex-start; }
-  .engage {
-    right: 12px;
-    bottom: 12px;
-    left: 12px;
-    width: auto;
-  }
+  .engage { padding: 16px; }
+  .engage-panel { padding: 22px 18px 16px; }
 }
