@@ -7,7 +7,7 @@
   if (!panel) return;
 
   try {
-    if (sessionStorage.getItem(STORAGE_KEY) === "1") return;
+    if (localStorage.getItem(STORAGE_KEY) === "1") return;
   } catch (_) {}
 
   var elapsed = 0;
@@ -38,6 +38,9 @@
     requestAnimationFrame(function () {
       panel.classList.add("is-visible");
     });
+    try {
+      localStorage.setItem(STORAGE_KEY, "1");
+    } catch (_) {}
     var closeBtn = panel.querySelector(".engage-close");
     if (closeBtn) closeBtn.focus();
   }
@@ -48,7 +51,7 @@
       panel.hidden = true;
     }, 280);
     try {
-      sessionStorage.setItem(STORAGE_KEY, "1");
+      localStorage.setItem(STORAGE_KEY, "1");
     } catch (_) {}
   }
 
