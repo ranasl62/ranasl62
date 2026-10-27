@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/IEEE_&_Springer-health_AI-1a5f7a?style=flat-square" alt="IEEE Springer" />
   <img src="https://img.shields.io/badge/First_author-osteoporosis_DL-12233a?style=flat-square" alt="First author" />
-  <img src="https://img.shields.io/badge/Peer_reviews-8_(WoS)-8b6914?style=flat-square" alt="8 reviews" />
+  <img src="https://img.shields.io/badge/Peer_reviews-12-8b6914?style=flat-square" alt="12 reviews" />
   <img src="https://img.shields.io/badge/RAG_·_LangGraph_·_MCP-production-1a5f7a?style=flat-square" alt="Production AI" />
   <img src="https://img.shields.io/badge/EHR_Risk_Framework-open_software-12233a?style=flat-square" alt="EHR Risk Framework" />
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect-8b6914?style=flat-square" alt="AWS" />
@@ -115,12 +115,13 @@ Roles match publisher author lists. Full formatting on the [personal page](https
 
 ## Peer review service
 
-**8 completed** independent reviews. IOP journal reviews are Web of Science (Clarivate) verified.
+**12 completed** reviews. The three *Biomedical Physics &amp; Engineering Express* reviews are Web of Science (Clarivate) verified.
 
 - *Biomedical Physics &amp; Engineering Express* (IOP) — 3 · WoS verified  
-- *PLOS ONE* — 1  
+- *PLOS ONE* — 1 · manuscript PONE-D-26-29250  
 - *International Journal of Public Health Practice and Promotion* — 1  
 - HIS 2026 · aiHealth 2026 · ICISSC 2026 — 1 each  
+- AMIA 2027 Amplify Informatics Conference — 4  
 
 Training: Nature Masterclasses *Focus on Peer Review*; Elsevier Researcher Academy (2026).
 
