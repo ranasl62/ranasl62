@@ -13,51 +13,51 @@
 
   var MESSAGES = [
     {
-      kicker: "Still here?",
-      title: "Thanks for reading carefully.",
-      copy: "If something here fits a lab, a team, or a collaboration—I’d like to hear from you.",
+      kicker: "Research and engineering",
+      title: "Thank you for reading.",
+      copy: "If this work is relevant to a laboratory, a clinical research group, or an engineering team, a short note is welcome.",
       later: "Not now"
     },
     {
       kicker: "Welcome back",
-      title: "You returned. That usually means interest.",
-      copy: "Faculty, hiring managers, collaborators—happy to talk research fit, RAG/agents work, or a coffee chat.",
+      title: "Glad you returned.",
+      copy: "I am happy to discuss the diagnosis research, the open framework, or production retrieval and agent systems.",
       later: "Maybe later"
     },
     {
-      kicker: "Deep dive detected",
-      title: "Two minutes is a long time on a CV page.",
-      copy: "Either the coffee is strong, or something here is useful. If it’s the latter—let’s connect.",
+      kicker: "A closer look",
+      title: "Research and production engineering.",
+      copy: "The publications and the EHR Risk Framework are described with the diagnosis research. Volkswagen work is production retrieval and agent systems.",
       later: "Keep reading"
     },
     {
-      kicker: "Third visit energy",
-      title: "We should stop meeting like this.",
-      copy: "Unless you want to meet on purpose: research advising, a role, or a short collaboration note.",
+      kicker: "Collaboration",
+      title: "Inquiries are welcome.",
+      copy: "Universities, clinicians, and research groups can write about the diagnosis methods or the open framework.",
       later: "Not today"
     },
     {
-      kicker: "Serious reader",
-      title: "Appreciate the careful look.",
-      copy: "Interested in a funded Ph.D. in CS / health informatics—and open to engineering roles that ship trustworthy AI.",
+      kicker: "Open software",
+      title: "The framework is research software.",
+      copy: "It is for research and education only. It is not a medical device and not for patient care.",
       later: "Dismiss"
     },
     {
-      kicker: "Plot twist",
-      title: "This popup has seen you before.",
-      copy: "Different message, same offer: hello, LinkedIn, or a hire / collaborate note. No spam—just an open door.",
+      kicker: "Contact",
+      title: "A direct note is enough.",
+      copy: "Email or LinkedIn is the right next step. There is no mailing list.",
       later: "Close"
     },
     {
-      kicker: "Quiet CTA",
-      title: "No hard sell. Just an invitation.",
-      copy: "If my EHR-risk methods or production AI stack matches what you need, a short email is enough.",
+      kicker: "Fit",
+      title: "Three places to look.",
+      copy: "Diagnosis papers, the EHR Risk Framework, and production RAG and agent systems. A short email is enough if one of them fits.",
       later: "Thanks, not now"
     },
     {
-      kicker: "Round again",
-      title: "Back for another lap?",
-      copy: "I won’t invent new jokes forever—but I will answer a thoughtful message. Research, hiring, or collaboration welcome.",
+      kicker: "Follow-up",
+      title: "Happy to reply.",
+      copy: "Research, hiring, and collaboration notes are all welcome.",
       later: "Carry on"
     }
   ];

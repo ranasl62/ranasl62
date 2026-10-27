@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Md Rana Hossain — trustworthy health-AI research and production AI engineering" width="100%" />
+  <img src="banner.png" alt="Md Rana Hossain — explainable AI for early medical diagnosis" width="100%" />
 </div>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## About
 
-Independent research on **leakage-aware, calibrated, explainable** models for EHR risk and medical imaging—alongside industrial delivery of **RAG**, **agentic workflows**, **MCP** tool-use, chat assistants, and task automation on U.S. platforms.
+Explainable AI for early medical diagnosis: peer-reviewed deep learning on medical images and clinical data (knee osteoporosis, first author; colorectal cancer; diabetic retinopathy; Alzheimer’s; gastrointestinal endoscopy; brain imaging). **Leakage-aware, calibrated EHR risk** modeling, including the open EHR Risk Framework, is a supporting methods thread—alongside industrial delivery of **RAG**, **agentic workflows**, **MCP** tool-use, chat assistants, and task automation on U.S. platforms.
 
 Healthcare outputs are **research and education methodology**, not a medical device and not bedside deployment. Volkswagen employment is production engineering; independent scholarship (publications, book, EHR Risk Framework) is not owned by that employer.
 
@@ -78,7 +78,7 @@ Grounded chat over internal knowledge · task automation to cut manual handoffs 
 
 ## Research
 
-Honest temporal evaluation of EHR and imaging models—index-time feature contracts, patient-level splits, calibration, and SHAP—published and shipped as inspectable software.
+Explainable, validated AI for early diagnosis from medical images and clinical data. Supporting methods work uses index-time feature contracts, patient-level splits, calibration, and SHAP, and is shipped as inspectable software.
 
 **EHR Risk Framework** — creator &amp; maintainer. Index/horizon cohorts, leakage audits, isotonic calibration (Brier, ECE), TreeSHAP, fairness slices, JSON manifests, FastAPI + Angular UI. MIT License · synthetic verification only.
 
@@ -96,6 +96,7 @@ Roles match publisher author lists. Full formatting on the [personal page](https
 |------|------|--------|
 | First author | Hybrid DL for knee osteoporosis (CNN + multimodal LLM) | IEEE ICSADL 2026 · [doi](https://doi.org/10.1109/ICSADL67539.2026.11451868) |
 | Co-author | CRuSE-Heart: risk-controlled selective ensembles | Springer *Discover AI* 2026 · [doi](https://doi.org/10.1007/s44163-026-01378-x) |
+| Co-author | Feature-weighted calibrated tabular explainable AI for heart disease prediction | Springer *Discover AI* 6, 1642 (2026), published 25 October 2026 · [doi](https://doi.org/10.1007/s44163-026-02360-3) |
 | Co-author | Colorectal cancer image classification | IEEE ICSADL 2026 · [doi](https://doi.org/10.1109/ICSADL67539.2026.11452002) |
 | Co-author | Diabetic retinopathy ensemble classification | IEEE ICARC 2026 · [doi](https://doi.org/10.1109/ICARC68737.2026.11453518) |
 | Co-author | Alzheimer’s stage classification (transfer learning) | IEEE AISEI 2026 · [doi](https://doi.org/10.1109/AISEI68628.2026.11572889) |
@@ -108,7 +109,7 @@ Roles match publisher author lists. Full formatting on the [personal page](https
 | Co-author | Alzheimer’s multimodal brain imaging | ICEFronT 2026 · *accepted* |
 | Lead author | EHR early detection &amp; clinical risk (book) | ISBN 978-984-29284-1-3 |
 
-*Under review (not yet published):* FWC-TabXAI++ (Springer *Discover AI*); brain-tumor XGBoost (Elsevier ESWA); CNN/GNN brain-tumor MRI (Elsevier *Healthcare Analytics*).
+*Under review (not yet published):* brain-tumor XGBoost (Elsevier ESWA); CNN/GNN brain-tumor MRI (Elsevier *Healthcare Analytics*).
 
 ---
 
@@ -154,8 +155,6 @@ High-traffic recharge microservices · QR payments, Kafka, ELK, eKYC · Employee
   <a href="https://ranasl62.github.io/ranasl62/">ranasl62.github.io/ranasl62</a>
   &nbsp;·&nbsp;
   mdrana.hossain@miu.edu
-  &nbsp;·&nbsp;
-  +1 (641) 954-5737
 </p>
 
 <p align="center"><sub>Research software is not a clinical product or FDA-cleared device.</sub></p>
