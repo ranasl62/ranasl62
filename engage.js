@@ -13,9 +13,9 @@
 
   var MESSAGES = [
     {
-      kicker: "Research and engineering",
+      kicker: "Diagnosis research",
       title: "Thank you for reading.",
-      copy: "If this work is relevant to a laboratory, a clinical research group, or an engineering team, a short note is welcome.",
+      copy: "If the diagnosis research or the open framework is relevant to your work, a short note is welcome.",
       later: "Not now"
     },
     {
